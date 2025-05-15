@@ -28,3 +28,4 @@ C:\Users\dklxw\OneDrive\Desktop\Study\OOKP_LAB3_Kisil\WebApplication1\obj\Debug\
 C:\Users\dklxw\OneDrive\Desktop\Study\OOKP_LAB3_Kisil\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\dklxw\OneDrive\Desktop\Study\OOKP_LAB3_Kisil\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\dklxw\OneDrive\Desktop\Study\OOKP_LAB3_Kisil\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\dklxw\OneDrive\Desktop\Study\OOKP_LAB3_Kisil\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
